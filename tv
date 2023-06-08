@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:0, group-title="Punjabi",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",World Punjabi
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8 
+#EXTINF:0, group-title="Punjabi",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:0, group-title="Punjabi",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0, group-title="Punjabi",PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Punjabi",PTN24
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Chakde
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87283
+#EXTINF:0, group-title="Punjabi",Hulchul Tv
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Punjabi
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87291
+#EXTINF:0, group-title="Punjabi",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:0, group-title="Punjabi",IN&Picture
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86185
+#EXTINF:0, group-title="Punjabi",Boogle Bollywood
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:0, group-title="News",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:0, group-title="News",CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0, group-title="News",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:0, group-title="News",News24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:0, group-title="News",Republic News
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87254
+#EXTINF:0, group-title="Hindi",COLORS
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86174
+#EXTINF:0, group-title="Hindi",SAB
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86177
+#EXTINF:0, group-title="Hindi",SET
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86178
+#EXTINF:0, group-title="Hindi",SonySAB
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86193
+#EXTINF:0, group-title="Hindi",SonyTV
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/52572
+#EXTINF:0, group-title="Hindi",Sony HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87337
+#EXTINF:0, group-title="Hindi",Sony Max HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87260
+#EXTINF:0, group-title="Hindi",SonyMAX
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/52573
+#EXTINF:0, group-title="Hindi",ZEE Tv
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86169
+#EXTINF:0, group-title="Hindi",Sony Max 2
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/52567
+#EXTINF:0, group-title="Hindi",ZEE Cinema
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/52534
+#EXTINF:0, group-title="Hindi",SonyTV
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86190
+#EXTINF:0, group-title="Hindi",Star Gold Select
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86171
+#EXTINF:0, group-title="Hindi",ZeeCinema
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86167
+#EXTINF:0, group-title="Entertainment",MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0, group-title="Entertainment",Star Movies Select
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87240
+#EXTINF:0, group-title="Entertainment",Discovery Science
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87277
+#EXTINF:0, group-title="Entertainment",History HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87344
+#EXTINF:0, group-title="Entertainment",History 18
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87209
+#EXTINF:0, group-title="Entertainment",National Geographic
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87343
+#EXTINF:0, group-title="Entertainment",Fashion TV
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87222
+#EXTINF:0, group-title="Food",Fox Life
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87256
+#EXTINF:0, group-title="English",CBC
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:0, group-title="English",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:0, group-title="English",BBC EARTH
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87220
+#EXTINF:0, group-title="English",AXN
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87223
+#EXTINF:0, group-title="English",STAR MOVIES HD
+http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="English",Sony Pix
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87221
+#EXTINF:0, group-title="English",Star World
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87263
+#EXTINF:0, group-title="Sports",Colors infinity
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86182
+#EXTINF:0, group-title="Sports",Sony Ten 2
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/52577
+#EXTINF:0, group-title="Sports",SonySix
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/52576
+#EXTINF:0, group-title="Kids",Cartoon Network
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87339
+#EXTINF:0, group-title="Kids",Nikelodeon
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87334
